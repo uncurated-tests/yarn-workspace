@@ -1,5 +1,5 @@
 {
     "scripts": {
-        "build": "cd .. && ls && exit 1 && mkdir public && echo 'test' > public/index.html"
+        "build": "ls"
     }
 }
